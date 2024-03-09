@@ -1,5 +1,7 @@
 # Testing-theory
-Homework Testing theory
+## Практика - <a href="https://docs.google.com/spreadsheets/d/1C1fI7AyA-AWf5gSkniLz65E8A7hGDDacQJmf6cnw0xM/edit?usp=sharing">Ссылка</a>
+
+## Homework Testing theory
 
 Что такое тестирование программного обеспечения?
 
