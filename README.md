@@ -1,5 +1,6 @@
 # Testing-theory
 ## Практика - <a href="https://docs.google.com/spreadsheets/d/1C1fI7AyA-AWf5gSkniLz65E8A7hGDDacQJmf6cnw0xM/edit?usp=sharing">Ссылка</a>
+## Практика 2 - <a href="https://docs.google.com/spreadsheets/d/1arXw464b-Jwqc7ejZklvB8c8GpFjuR6dg6t_G1qP5nE/edit?usp=sharing">Ссылка</a>
 
 ## Homework Testing theory
 
